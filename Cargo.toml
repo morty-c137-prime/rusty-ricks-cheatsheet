@@ -1,0 +1,7 @@
+[package]
+name = "rusty-ricks-cheatsheet"
+version = "0.1.0"
+authors = ["Richard Alvarez <rawalvarez731@gmail.com>"]
+
+[dependencies]
+rand = "0.4.2"
